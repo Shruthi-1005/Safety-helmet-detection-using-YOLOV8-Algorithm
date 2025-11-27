@@ -20,22 +20,22 @@ It can be used in construction sites, industries, factories, and safety monitori
 
 ## Steps to be followed
 Open MAJOR on desktop 
-<br>/Click on file folder vt....
-Again click on same folder
-Click on code
-Copy the path 
-Open anaconda
-Enter cd space and paste the copied path  and enter
-Now type python app.py  enter 
-Now after the process a link is visible copy it and paste on any browser 
-A page appears to start here 
-Click on it 
-Click on upload image or video 
-Now it goes to folders 
-Got to major file again select same files 
-Now select data set instead of code 
-Click on test coz we are testing images or videos
-Now many images and videos appears select anyone 
-Enter
-Now the images appears as detected there before and after images
+<br>Click on file folder vt....
+<br>Again click on same folder
+<br>Click on code
+<br>Copy the path 
+<br>Open anaconda
+<br>Enter cd space and paste the copied path  and enter
+<br>Now type python app.py  enter 
+<br>Now after the process a link is visible copy it and paste on any browser 
+<br>A page appears to start here 
+<br>Click on it 
+<br>Click on upload image or video 
+<br>Now it goes to folders 
+<br>Got to major file again select same files 
+<br>Now select data set instead of code 
+<br>Click on test coz we are testing images or videos
+<br>Now many images and videos appears select anyone 
+<br>Enter
+<br>Now the images appears as detected there before and after images
 Or videos as uploaded
