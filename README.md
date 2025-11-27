@@ -20,7 +20,7 @@ It can be used in construction sites, industries, factories, and safety monitori
 
 ## Steps to be followed
 Open MAJOR on desktop 
-Click on file folder vt....
+<br>/Click on file folder vt....
 Again click on same folder
 Click on code
 Copy the path 
